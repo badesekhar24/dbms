@@ -1,1 +1,0 @@
-create table (rollno varchar(20),names varchar(20),marks integer);
